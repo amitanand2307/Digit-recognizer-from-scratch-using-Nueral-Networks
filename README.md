@@ -1,6 +1,6 @@
 # Digit-recognizer-from-scratch-using-Nueral-Networks
 Data set= mnist data set  
-Accuracy upto 96.78%
+Accuracy upto 95.71%
 >>> import dataloader  
 >>> training_data, validation_data, test_data = \  
 ... dataloader.load_data_wrapper()  
